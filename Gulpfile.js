@@ -10,15 +10,16 @@ var gulp = require('gulp'),
 
 
     //Servidor web de desarrollo
+
     gulp.task('server',function() {
       connect.server({
         root: './app',
-        hostname: '0.0.0.0',
+        host: '127.0.0.1',
         port:5000,
         livereload: true,
-        middleware:function(connect,opt) {
-          return [historyApiFallback];
-        }
+        //middleware:function(connect,opt) {
+        //  return [historyApiFallback];
+        //}
       });
     });
 

@@ -12,7 +12,9 @@
     "type": "ghit",
     "url": "https://github.com/jaimemateo/angularproject.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "gulp-open": "^1.0.0"
+  },
   "devDependencies": {
     "connect-history-api-fallback": "^1.1.0",
     "gulp": "^3.9.0",
