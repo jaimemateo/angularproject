@@ -3,14 +3,14 @@
   "version": "0.0.1",
   "description": "Ejemplo app web AngularJS",
   "bugs": {
-    "url": "https://github.com/jotasmith//angular-gulp-boilerplate/issues",
-    "email": ""
+    "url": "",
+    "email": "jaime.mateoh@gmail.com"
   },
   "license": "MIT",
   "author": "Jaime Mateo",
   "repository": {
     "type": "ghit",
-    "url": "https://github.com/jotasmith/angular-gulp-boilerplate"
+    "url": "https://github.com/jaimemateo/angularproject.git"
   },
   "dependencies": {},
   "devDependencies": {
